@@ -2,6 +2,8 @@
 .project
 .settings/
 bin/
+docs/
+doc/
 target/
 *.class
 *.log
